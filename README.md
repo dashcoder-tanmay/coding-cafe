@@ -1,8 +1,11 @@
-# coding-cafe
+﻿# Coding Café
 
-Name: Tanmay
-Roll number: (U20260305)
+Lab work for Coding Café, FM102.
 
-This repository holds my Coding Café lab works.
+**Name:** Tanmay Gupta
+**Roll number:** U20260305
 
-- week01: C programs from Week 1
+## Contents
+
+- week01 - terminal
+- lab4 - git and github
